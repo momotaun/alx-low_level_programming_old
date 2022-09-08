@@ -4,7 +4,7 @@
  *
  * Description: Displays a message using puts
  * section header: None
- * Retun: Always 0 (Success)
+ * @retun: Always 0 (Success)
  */
 int main(void)
 {
