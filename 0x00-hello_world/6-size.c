@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
 {
 	printf("Size of a char: 1 byte(s)\n");
 	printf("Size of an int: 4 byte(s)\n");
-	if (argv[4] == "size32")
+	if (argv[3] == "size32")
 		printf("Size of a long int: 4 byte(s)\n");
 	else
 		printf("Size of a long int: 8 byte(s)\n");
