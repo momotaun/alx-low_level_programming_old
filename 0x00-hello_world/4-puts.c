@@ -1,5 +1,7 @@
 #include <stdio.h>
 /**
+ * This program printsout something
+ *
  * Description: Displays a message using puts
  */
 int main(void)
