@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- * This program printsout something
+ * main - This program printsout something
  *
  * Description: Displays a message using puts
+ * section header: None
+ * Retun: None
  */
 int main(void)
 {
